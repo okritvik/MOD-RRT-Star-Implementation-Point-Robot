@@ -32,11 +32,11 @@ Implementation of the Multi-Objective Dynamic RRT* algorithm for path planning o
 
 Obstacle Map (Known)    |  Modified RRT* Tree Expansion | Modified RRT* Path
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/40534801/167329665-c65a21f8-3b64-4925-8e94-7a847503f285.png" width="100%"> | <img src="https://user-images.githubusercontent.com/40534801/167330587-facbd5db-6b99-4972-b291-59e6340eb1c3.png" width="100%"> | <img src="https://user-images.githubusercontent.com/40534801/167330631-e732874c-8a28-4649-8a1b-71ff50090f0c.png" width="100%">
+<img src="https://user-images.githubusercontent.com/40534801/167329665-c65a21f8-3b64-4925-8e94-7a847503f285.png" width="100%"> | <img src="https://user-images.githubusercontent.com/40534801/167475539-e3008e82-41a5-4814-ac26-b1dfc78c93e0.png" width="100%"> | <img src="https://user-images.githubusercontent.com/40534801/167475590-72423aae-1425-4404-8d88-3a1972a0a697.png" width="100%">
 
 Optimized Modified RRT* Path   |  Obstacle Map - Known (Blue) & Unknown (Green) | Optimized Re-planned Path
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/40534801/167331983-65292dcd-b260-40a0-8279-db557a60bf40.png" width="100%"> | <img src="https://user-images.githubusercontent.com/40534801/167332002-ada4a3d2-35bf-4e24-bc73-29de6ac63951.png" width="100%"> | <img src="https://user-images.githubusercontent.com/40534801/167332042-98f6c1f4-d4c0-490d-a6f5-b5aa75e53d2e.png" width="100%">
+<img src="https://user-images.githubusercontent.com/40534801/167475700-5aac1814-283f-46c6-b96c-91957ea1c8ca.png" width="100%"> | <img src="https://user-images.githubusercontent.com/40534801/167332002-ada4a3d2-35bf-4e24-bc73-29de6ac63951.png" width="100%"> | <img src="https://user-images.githubusercontent.com/40534801/167475764-3bb1cdf1-7380-4c96-badf-1566888836d4.png" width="100%">
 
 
 ## For Map 02:
