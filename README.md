@@ -14,7 +14,7 @@ Implementation of the Multi-Objective Dynamic RRT* algorithm for path planning o
 
 ## Required Libraries: 
 * cv2 : To add arrows, lines or circles in the map at the desired coordinates.
-* time: To calculate the running time for the A* algorithm.
+* time: To calculate the running time for the RRT* algorithm.
 * numpy: To define the obstacle map matrix
 * argparse: To parse command line arguments
 * random: To generate random nodes
